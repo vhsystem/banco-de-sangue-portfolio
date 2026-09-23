@@ -4,7 +4,7 @@
 
 O jogador observa reações, interpreta a tipagem sanguínea e acompanha um percurso didático até a seleção e verificação de hemocomponentes.
 
-[**Abrir demonstração**](https://vhsystem.github.io/desafio-banco-de-sangue/)
+[**Abrir demonstração**](https://desafio-banco-de-sangue.vercel.app/)
 
 ![Tela inicial do laboratório virtual](images/inicio.png)
 
@@ -36,7 +36,7 @@ React · TypeScript · Vite · CSS · SVG · Lucide · Service Worker · Playwri
 
 ## Sobre este repositório
 
-Esta é a **vitrine pública** do projeto. Ela contém apenas apresentação, imagens e informações para conhecer a proposta. A implementação e o histórico de desenvolvimento ficam em um repositório separado.
+Esta é a **vitrine pública** do projeto. Ela contém apenas apresentação, imagens e informações para conhecer a proposta. A implementação e o histórico de desenvolvimento ficam em um repositório privado separado. A demonstração é publicada no Vercel.
 
 O acesso à demonstração não concede autorização para redistribuir ou criar versões derivadas dos conteúdos próprios protegidos. Componentes de terceiros mantêm suas respectivas licenças.
 
